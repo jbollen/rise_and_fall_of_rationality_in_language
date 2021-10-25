@@ -1,5 +1,5 @@
 # Data and code for "Rise and Fall of Rationality in Language"
-##by Marten Scheffer, Ingrid van de Leemput, Els Weinans, and Johan Bollen
+by Marten Scheffer, Ingrid van de Leemput, Els Weinans, and Johan Bollen
 
 For questions, please contact:
 
